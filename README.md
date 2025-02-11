@@ -11,7 +11,7 @@ Calculation: The project multiplies the input amount by the exchange rate to cal
 
 Output: The converted amount is displayed to the user.
 
-[currency.zip](https://github.com/user-attachments/files/18733382/currency.zip)
+https://github.com/user-attachments/assets/9b6f1fa6-75bf-47a9-9562-8c8c46453263 
 
 ![image alt](https://github.com/Koustubh84/Currency-Converter-App/blob/main/currency.png?raw=true)
 
